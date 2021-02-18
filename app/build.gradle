@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "com.ithaha.mobilesafe"
+        minSdkVersion 22
+        targetSdkVersion 28
+
+        testApplicationId "com.ithaha.mobilesafe"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:28.0.0'
+    compile 'com.android.support:support-v4:28.0.0'
+    compile files('libs/afinal_0.5_bin.jar')
+}

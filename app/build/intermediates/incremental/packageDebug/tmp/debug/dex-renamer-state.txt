@@ -1,0 +1,7 @@
+#Thu Feb 18 17:34:08 CST 2021
+base.0=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0

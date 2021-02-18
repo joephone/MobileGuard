@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu Feb 18 17:34:08 CST 2021
+2.base=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=antivirus.db
+2.baseType=DIRECTORY
+3.base=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.set=ASSET
+1.path=classes.dex
+4.base=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+count=5
+2.path=address.db
+4.set=ASSET
+3.path=classes.dex
+3.baseType=DIRECTORY
+1.set=DEX
+4.path=axisoffset.dat
+1.baseType=DIRECTORY
+0.base=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=E\:\\GitHub\\safe\\MobileGuard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+4.baseType=DIRECTORY
+0.set=ASSET

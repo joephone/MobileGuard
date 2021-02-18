@@ -1,0 +1,431 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a3a9e22007cb6d8b2fa75acb81cda4fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\183c4aae5514aab61783b051e3fe5661\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7a684ce950529108ef5282364e816b60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\864df9bb948a4021bfe1e09f362b16a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0fc85ffaf72a7ca6e018387cb995bb5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\93793d5816fc463929fc8f5787699011\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4bf9c791f2240fee8928c54d90429f6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b30be78300ae5beafe061989346465a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bbc6de241337351e46d6a3fa2832f24c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fc69aaf3b39f11c0d824e1dd9d032e8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\18cf6293631f8ee39685369022e420e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\12ec148d3b985579313ad3587f08a7de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b4ccc6990c0289f5204a7168f2fa9086\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\72b2b303d827f72447ca1a20ffea8bfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b95645fe7b1327edaf782e92ca13eb45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\592355d196cbd2cc4b605e7c50857997\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1b27ccac62b33381f3736b707d3b2ee\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\963aec5cc735ae1582c8fb39efb9ffdf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\103da1d864620fe507dcc7efdec94f99\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98b3cef64d57b19d40c9a8f25cf0d37c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b1f4a2570520a36e9773c2f739965ec5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\101bfacd07f25ecdf32603a11fb39959\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0f0fb4387b025f1125935ed7375a6232\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9e2dfa8cc219afa1872714e90b3a6f64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8f978542ceab4fd902e3e7737da5735f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\af2f440b25cadaad80a1d5f4398eb6b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\76d01c582d9c2132c7004cc0359be63d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\437423f64a3b9a1b0ea3906712e02cff\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:1-146:12
+	package
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+instrumentation
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:9:5-11:57
+	android:targetPackage
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:11:9-54
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:10:9-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:19:5-70
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:19:22-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:23:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:26:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:27:5-69
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:27:22-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:28:5-72
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:28:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:29:22-70
+uses-permission#android.permission.READ_SMS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:30:5-67
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:30:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:31:22-65
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:32:5-88
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:32:22-85
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:33:5-84
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:33:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:34:5-67
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:34:22-65
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:35:5-74
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:35:22-72
+application
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:37:5-144:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1b27ccac62b33381f3736b707d3b2ee\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1b27ccac62b33381f3736b707d3b2ee\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\963aec5cc735ae1582c8fb39efb9ffdf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\963aec5cc735ae1582c8fb39efb9ffdf\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1b27ccac62b33381f3736b707d3b2ee\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:40:9-41
+	android:icon
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:39:9-45
+	android:allowBackup
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:38:9-35
+	android:theme
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:41:9-40
+uses-library#android.test.runner
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:42:9-60
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:42:23-57
+activity#com.ithaha.mobilesafe.SplashActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:44:9-52:20
+	android:label
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:45:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:50:27-74
+activity#com.ithaha.mobilesafe.HomeActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:53:9-71
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:53:19-68
+activity#com.ithaha.mobilesafe.SettingActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:54:9-74
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:54:19-71
+activity#com.ithaha.mobilesafe.LostFindActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:55:9-75
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:55:19-72
+activity#com.ithaha.mobilesafe.Setup1Activity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:56:9-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:56:19-70
+activity#com.ithaha.mobilesafe.Setup2Activity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:57:9-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:57:19-70
+activity#com.ithaha.mobilesafe.Setup3Activity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:58:9-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:58:19-70
+activity#com.ithaha.mobilesafe.Setup4Activity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:59:9-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:59:19-70
+activity#com.ithaha.mobilesafe.Setup5Activity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:60:9-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:60:19-70
+activity#com.ithaha.mobilesafe.SelectContactActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:61:9-80
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:61:19-77
+activity#com.ithaha.mobilesafe.AtoolsActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:62:9-73
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:62:19-70
+activity#com.ithaha.mobilesafe.NumberAddressQueryActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:63:9-85
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:63:19-82
+activity#com.ithaha.mobilesafe.utils.LockScreenActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:64:9-83
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:64:19-80
+activity#com.ithaha.mobilesafe.CallSmsSafeActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:65:9-78
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:65:19-75
+activity#com.ithaha.mobilesafe.AppManagerActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:66:9-77
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:66:19-74
+activity#com.ithaha.mobilesafe.TaskManagerActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:67:9-78
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:67:19-75
+activity#com.ithaha.mobilesafe.TaskSettingActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:68:9-78
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:68:19-75
+activity#com.ithaha.mobilesafe.EnterPwdActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:69:3-73:14
+	android:excludeFromRecents
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:71:4-37
+	android:launchMode
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:70:4-39
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:69:13-66
+activity#com.ithaha.mobilesafe.TrafficManangerActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:74:3-76
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:74:13-73
+activity#com.ithaha.mobilesafe.AntiVirusActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:75:3-76:70
+	android:configChanges
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:76:7-68
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:75:13-67
+activity#com.ithaha.mobilesafe.ClearCacheActivity
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:77:3-71
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:77:13-68
+receiver#com.ithaha.mobilesafe.receiver.BootCompleteReceiver
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:81:9-85:20
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:81:19-85
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:82:13-84:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:83:17-79
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:83:25-76
+receiver#com.ithaha.mobilesafe.receiver.SMSReceiver
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:88:9-92:20
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:88:19-76
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:89:13-91:29
+	android:priority
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:89:28-51
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:90:17-82
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:90:25-79
+receiver#com.ithaha.mobilesafe.MyAdmin
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:95:9-107:20
+	android:label
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:98:13-56
+	android:permission
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:99:13-70
+	android:description
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:97:13-74
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:96:13-57
+meta-data#android.app.device_admin
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:100:13-102:63
+	android:resource
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:102:17-60
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:101:17-56
+intent-filter#action:name:android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:104:13-106:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:105:17-82
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:105:25-79
+receiver#com.ithaha.mobilesafe.receiver.MyWidget
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:110:9-118:20
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:110:19-73
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:111:13-113:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:112:17-84
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:112:25-81
+meta-data#android.appwidget.provider
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:115:13-117:67
+	android:resource
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:117:17-64
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:116:17-58
+receiver#com.ithaha.mobilesafe.receiver.KillAllReceiver
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:121:9-125:20
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:121:19-80
+intent-filter#action:name:com.ithaha.mobilesafe.killall
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:122:10-124:26
+action#com.ithaha.mobilesafe.killall
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:123:14-68
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:123:22-66
+service#com.ithaha.mobilesafe.service.AddressService
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:128:9-80
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:128:18-77
+service#com.ithaha.mobilesafe.service.CallSmsSafeService
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:131:9-84
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:131:18-81
+service#com.ithaha.mobilesafe.service.AutoClearService
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:134:9-82
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:134:18-79
+service#com.ithaha.mobilesafe.service.GPSService
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:137:9-76
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:137:18-73
+service#com.ithaha.mobilesafe.service.UpdateWidgetService
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:140:9-85
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:140:18-82
+service#com.ithaha.mobilesafe.service.WatchDogService
+ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:143:9-81
+	android:name
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml:143:18-78
+uses-sdk
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a3a9e22007cb6d8b2fa75acb81cda4fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a3a9e22007cb6d8b2fa75acb81cda4fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\183c4aae5514aab61783b051e3fe5661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\183c4aae5514aab61783b051e3fe5661\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7a684ce950529108ef5282364e816b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\7a684ce950529108ef5282364e816b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\864df9bb948a4021bfe1e09f362b16a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\864df9bb948a4021bfe1e09f362b16a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0fc85ffaf72a7ca6e018387cb995bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\0fc85ffaf72a7ca6e018387cb995bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\93793d5816fc463929fc8f5787699011\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\93793d5816fc463929fc8f5787699011\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4bf9c791f2240fee8928c54d90429f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4bf9c791f2240fee8928c54d90429f6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b30be78300ae5beafe061989346465a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b30be78300ae5beafe061989346465a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bbc6de241337351e46d6a3fa2832f24c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bbc6de241337351e46d6a3fa2832f24c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fc69aaf3b39f11c0d824e1dd9d032e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\fc69aaf3b39f11c0d824e1dd9d032e8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\18cf6293631f8ee39685369022e420e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\18cf6293631f8ee39685369022e420e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\12ec148d3b985579313ad3587f08a7de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\12ec148d3b985579313ad3587f08a7de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b4ccc6990c0289f5204a7168f2fa9086\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b4ccc6990c0289f5204a7168f2fa9086\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\72b2b303d827f72447ca1a20ffea8bfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\72b2b303d827f72447ca1a20ffea8bfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b95645fe7b1327edaf782e92ca13eb45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b95645fe7b1327edaf782e92ca13eb45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\592355d196cbd2cc4b605e7c50857997\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\592355d196cbd2cc4b605e7c50857997\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1b27ccac62b33381f3736b707d3b2ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1b27ccac62b33381f3736b707d3b2ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\963aec5cc735ae1582c8fb39efb9ffdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\963aec5cc735ae1582c8fb39efb9ffdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\103da1d864620fe507dcc7efdec94f99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\103da1d864620fe507dcc7efdec94f99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98b3cef64d57b19d40c9a8f25cf0d37c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\98b3cef64d57b19d40c9a8f25cf0d37c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b1f4a2570520a36e9773c2f739965ec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b1f4a2570520a36e9773c2f739965ec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\101bfacd07f25ecdf32603a11fb39959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\101bfacd07f25ecdf32603a11fb39959\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0f0fb4387b025f1125935ed7375a6232\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\0f0fb4387b025f1125935ed7375a6232\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9e2dfa8cc219afa1872714e90b3a6f64\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9e2dfa8cc219afa1872714e90b3a6f64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8f978542ceab4fd902e3e7737da5735f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8f978542ceab4fd902e3e7737da5735f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\af2f440b25cadaad80a1d5f4398eb6b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\af2f440b25cadaad80a1d5f4398eb6b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\76d01c582d9c2132c7004cc0359be63d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\76d01c582d9c2132c7004cc0359be63d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\437423f64a3b9a1b0ea3906712e02cff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\437423f64a3b9a1b0ea3906712e02cff\AndroidManifest.xml:20:5-44
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		ADDED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
+		INJECTED from E:\GitHub\safe\MobileGuard\app\src\main\AndroidManifest.xml
